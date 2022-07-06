@@ -1,2 +1,2 @@
 # Lab_OptCom
-Estudo realizado no laboratório de Comunicações Ópticas.
+Experimentos realizados no laboratório de Comunicações Ópticas.
